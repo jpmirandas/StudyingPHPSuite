@@ -9,8 +9,8 @@ class MySuite {
 			}
 		}
 		
-		// $suite->addTestFile ( "OneTest.php" );
-		// $suite->addTestFile ( "TwoTest.php" );
 		return $suite;
 	}
 }
+
+
